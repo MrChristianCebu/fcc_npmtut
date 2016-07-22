@@ -1,0 +1,23 @@
+{
+  "name": "mr_christian",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrChristianCebu/fcc_npmtut.git"
+  },
+  "author": "mr_christian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrChristianCebu/fcc_npmtut/issues"
+  },
+  "homepage": "https://github.com/MrChristianCebu/fcc_npmtut#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
+}
